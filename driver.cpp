@@ -1,9 +1,3 @@
-/**
-*Driver file to demonstrate linking
-*Minitut 1, 2015
-*Author: Benjamin Hugo
-*/
-
 #include <iostream>
 #include "factorial.h"
 
